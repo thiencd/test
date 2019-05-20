@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoomDatabaseDemo2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_user">Add User</string>
+    <string name="view_user">View User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_user">Update User</string>
+    <string name="add">Add User</string>
+    <string name="nhap_user_id">Nhập User ID</string>
+    <string name="nhap_user_name">Nhập User Name</string>
+    <string name="nhap_user_email">Nhập Email</string>
+    <string name="save">Save</string>
+</resources>

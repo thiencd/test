@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentCommunicationFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message"> Enter a Message</string>
+    <string name="send">Send</string>
+    <string name="messageAppearHere">Message Appear at Here</string>
+</resources>

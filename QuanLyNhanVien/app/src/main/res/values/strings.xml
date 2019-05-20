@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuanLyNhanVien</string>
+    <string name="tendangnhap">Tên đăng nhập</string>
+    <string name="nhaptaikhoan">Nhập tài khoản</string>
+    <string name="nhapmatkhau">Nhập mật khẩu</string>
+    <string name="dongy">Đồng ý</string>
+    <string name="thoat">Thoát</string>
+</resources>

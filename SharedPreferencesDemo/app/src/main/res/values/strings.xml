@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesDemo</string>
+    <string name="nhapusername">Nhập username</string>
+    <string name="nhappassword">Nhập password</string>
+    <string name="send">Send</string>
+    <string name="hienthiten">Welcome ABC</string>
+    <string name="logout">Log Out</string>
+
+</resources>

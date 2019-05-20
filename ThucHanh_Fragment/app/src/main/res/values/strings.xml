@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThucHanh_Fragment</string>
+    <string name="hienthi">Hiển thị cầu thủ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

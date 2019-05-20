@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QUẢN LÝ THU CHI</string>
+    <string name="tienthu">TIỀN THU</string>
+    <string name="tienchi">TIỀN CHI</string>
+    <string name="thuchi">THU CHI</string>
+    <string name="sotienthu">NHẬP SỐ TIỀN THU</string>
+    <string name="nhapsotien">SỐ TIỀN</string>
+    <string name="noidung">NỘI DUNG</string>
+    <string name="sothu">SỔ THU</string>
+    <string name="sochi">SỔ CHI</string>
+    <string name="lydo">Lý do</string>
+    <string name="nhap">NHẬP</string>
+    <string name="thongke">THỐNG KÊ</string>
+
+
+</resources>
